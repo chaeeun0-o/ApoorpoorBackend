@@ -78,6 +78,14 @@ https://www.apoorpoor.com
 ## 🌊 트러블 슈팅
 
 ## 🌊 API 명세 / 와이어프레임
+<details>
+<summary> API 명세 </summary>
+<div markdown="1">
+
+  (https://docs.google.com/spreadsheets/d/1KdPC1GW8KxtWxX5jGaHe6r8tpokIT2xPr7AI5BdSE3M/edit#gid=0)
+
+</div>
+</details>
 
 ## 🌊 ERD
 ![model](https://github.com/Apoorpoor/Apoorpoor_Backend/assets/97949070/5ddca576-c2b7-456e-a017-fb6972dc0f0d)
